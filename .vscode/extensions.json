@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "azapi-vscode.azapi",
+    "hashicorp.terraform",
+    "davidanson.vscode-markdownlint",
+    "Gruntfuggly.todo-tree"
+  ]
+}
